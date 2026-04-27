@@ -25,7 +25,7 @@
 * **Independence of the Japanese Market:** In contrast, Japan Market shows **unique cultural preferences**. Shooter games are distinctly unpopular in Japan despite high global sales, the game types preferred in the Japanese market are significantly different from the global mainstream market.
 
 <details>
-  <summary>Click to view Key Visualizations (Analysis Highlights)</summary>
+  <summary>Click to view Key Visualizations (Key Insighs)</summary>
   <br>
 
   #### 1. Global Sales Distribution (Univariate)
