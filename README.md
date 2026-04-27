@@ -23,6 +23,24 @@
 * **Western Market Correlation:** There is a strong **positive correlation** between sales in North America Market and Europe Market. Games that perform well in one are highly likely to perform similarly in the other.
 
 * **Independence of the Japanese Market:** In contrast, Japan Market shows **unique cultural preferences**. Shooter games are distinctly unpopular in Japan despite high global sales, the game types preferred in the Japanese market are significantly different from the global mainstream market.
+
+<details>
+  <summary>Click to view Key Visualizations (Analysis Highlights)</summary>
+  <br>
+
+  #### 1. Global Sales Distribution (Univariate)
+  *Revealing the "Winner-takes-all" nature of the market.*
+  <img src="./img/Global_sales_distribution.png" width="600">
+
+  #### 2. Market Positioning (Bivariate)
+  *Heatmap of Game Publisher vs Game Genre*
+  <img src="./img/heatmap_game_publisher_game_genre.png" width="600">
+
+  #### 3. Cross-regional Sales Trends (Multivariate)
+  *Sales Comparison By Region And Genre*
+  <img src="./img/sales_comparisons_region_genre.png" width="600">
+
+</details>
 ---
 ### Quick Links
 * [**View Analysis Notebook**](./EDA_project_with_plot.ipynb)
