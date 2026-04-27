@@ -41,6 +41,7 @@
   <img src="./img/sales_comparisons_region_genre.png" width="600">
 
 </details>
+
 ---
 ### Quick Links
 * [**View Analysis Notebook**](./EDA_project_with_plot.ipynb)
